@@ -11,4 +11,4 @@ Haarcaascade is less accurate. MTCNN is fairly accurate in its prediction.
 ![alt text](https://github.com/Rijo756/Face_Mask_Detection/blob/main/Front_Camera.JPG)
 
 NB: Some files like inceptionV3-model is removed due to 100MB file size.
-If you can run the scripts in your system this will automatically created.
+If you can train the data in your system this can be automatically saved.
